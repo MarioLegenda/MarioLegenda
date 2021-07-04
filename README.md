@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MarioLegenda
 - 👀 I’m interested in ideas and creating software
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning go
 - 📫 How to reach me: marioskrlec222@gmail.com
