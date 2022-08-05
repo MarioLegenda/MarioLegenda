@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MarioLegenda
 - 👀 I’m interested in ideas and creating software
-- 🌱 I’m currently learning go
+- 🌱 I do programming in Javascript (frontend and backend), PHP and Go
+- Checkout my project https://rebelsource.dev
 - 📫 How to reach me: marioskrlec222@gmail.com
